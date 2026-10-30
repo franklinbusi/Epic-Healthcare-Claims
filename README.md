@@ -2,11 +2,11 @@
 
 A monthly revenue cycle report built for a Finance team, replacing a summary report they previously pulled from Epic by hand. It tracks charges, payments, adjustments, and outstanding balances for any period, and checks that everything reconciles back to total charges so leadership can trust the numbers.
 
-![Home page](01-home.png)
+![Home page](images/01-home.png)
 
-![Report page](02-report.png)
+![Report page](images/02-report.png)
 
-![Data model](03-model.png)
+![Data model](images/03-model.png)
 
 ## What it shows
 
